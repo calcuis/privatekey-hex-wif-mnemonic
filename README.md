@@ -21,6 +21,5 @@ Here's a breakdown of the code:
 
 **Convert to Mnemonic:**
 - The code uses the `mnemonic` module to convert the raw bytes of the private key into a mnemonic phrase.
-- The mnemonic phrase is then displayed.
 
 Note: The mnemonic module is used for BIP39 mnemonic phrases checking, which are commonly used in cryptocurrency wallets for backup and recovery. The language chosen for the mnemonic phrase is set to English in this example.
